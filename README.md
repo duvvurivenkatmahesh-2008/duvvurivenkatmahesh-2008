@@ -6,17 +6,17 @@
 ### 🧠 Machine Learning & Data Science
 <p>
   <img width="50" height="50" src="https://img.icons8.com/ios/50/python--v1.png" alt="python--v1"/> 
-  [<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" ](https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000)
+  <img width = "50" height = "50" src= https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img  width="50" height="50"  src="https://github.com/user-attachments/assets/04b31270-7194-4c4c-95e0-25d11c771bad" />
+
 </p>
 
 ### 🛠️ Core Engineering & Tools
 <p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+<img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/></p>
 
 ---
 
