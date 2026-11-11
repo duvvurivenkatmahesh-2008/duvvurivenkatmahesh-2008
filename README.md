@@ -5,8 +5,8 @@
 
 ### 🧠 Machine Learning & Data Science
 <p>
-  <img width="50" height="50" src="https://img.icons8.com/ios/50/python--v1.png" alt="python--v1"/>e" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img width="50" height="50" src="https://img.icons8.com/ios/50/python--v1.png" alt="python--v1"/> 
+  [<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" ](https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000)
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
